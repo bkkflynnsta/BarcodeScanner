@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "icon_bacode.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
